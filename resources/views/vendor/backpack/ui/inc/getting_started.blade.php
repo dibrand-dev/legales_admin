@@ -1,0 +1,1 @@
+<img src="{{ asset('img/unilever.png') }}" alt="description of myimage">

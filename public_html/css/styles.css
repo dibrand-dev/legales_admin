@@ -1,0 +1,7 @@
+.unilever_logo {
+    width: 500px;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
